@@ -1,3 +1,5 @@
+matplotlib
 keras
 tensorflow
 pydot
+graphviz
